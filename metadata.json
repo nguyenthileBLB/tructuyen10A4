@@ -1,0 +1,5 @@
+{
+  "name": "EduQuiz - Nền Tảng Thi Cử",
+  "description": "Ứng dụng thi cử trên di động cho phép giáo viên tạo đề thi và học sinh làm bài trực tiếp. Hỗ trợ chấm điểm trắc nghiệm và báo cáo kết quả.",
+  "requestFramePermissions": []
+}
